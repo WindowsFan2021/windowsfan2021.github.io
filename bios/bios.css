@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Web437 IBM BIOS";
+    src: url(https://windowsfan2021.github.io/tree/main/fonts/bios/web/web437_ibm_bios.woff) format("woff");
+  }
+
+  body {
+    background: #000;
+    font-family: "Web437 IBM BIOS", monospace;
+    font-size: 22px;
+    color: #888;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    margin: 0;
+    transform: scale(0.6) translateY(-25%);
+  }
